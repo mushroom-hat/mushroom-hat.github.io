@@ -9,19 +9,22 @@ This page consists of blog posts written by myself which documents the many expe
 
 <style>
 table th:first-of-type {
-    width: 60%;
+    width: 5%;
 }
 table th:nth-of-type(2) {
-    width: 20%;
+    width: 55%;
 }
 table th:nth-of-type(3) {
     width: 20%;
 }
+table th:nth-of-type(4) {
+    width: 20%;
+}
+
 
 </style>
 
-
-|`TITLES`| `Time To Read` | `Date Published` | 
-|:----------|:----------: | :------------: |
-|[The Psychology behind OSCP](/blogs/the-psychology-behind-oscp) | - minutes | 19th Feb 2022
-|[My OSCP Journey and Thoughts](/blogs/oscp-journey/)| 13 minutes | 19th Feb 2022
+|`ID`|`TITLES`| `Time To Read` | `Date Published` | 
+|:---:|:----------|:----------: | :------------: |
+|2|[The Psychology behind OSCP](/blogs/the-psychology-behind-oscp) | - | 19th Feb 2022
+|1|[My OSCP Journey and Thoughts](/blogs/oscp-journey/)| 13 minutes | 19th Feb 2022
