@@ -96,13 +96,13 @@ Afterwards, I enumerated the AD set for 3 more hours until 07:15 where I decided
 ***11:00 - 14:00 "6-way parallel thinking"*** <br>
 After I woke up at approximately 11:00, i decided to tackle the stand-alone hosts. I was thinking if I should give up the AD set and go for the stand-alone machines. Unfortunately, I wasn't even able to crack one machine, partially because my mind was focused on the AD set. I felt like I was thinking about all 6 machines at one point. 
 
-***14:00 - 14:30 "meal intake"*** <br>
+***14:00 - 14:30 first meal intake*** <br>
 At 14:00, I went to have a quick lunch with my girlfriend until 14:30. This was my only meal intake for the entire 24 hours hahaha (not recommended). During this point, it was a struggle between myself and my thoughts. Half of my brain wanted to give up but the other half can't stop thinking about the machines. Ultimately, the hamster running in my mind won and I went back to my workstation and carried on switching between standalone hosts and the AD set. 
 
-***18:00 "The Breakthrough"*** <br>
+***18:00 The Breakthrough*** <br>
 At 18:00, I had my first breakthrough and obtained a shell on one of the standalone hosts. I shouted for joy and told my girlfriend that I had a chance to pass the exam (not sure what contributed to this confidence as I had only obtained 10 points). PrivEsc was completed in the next hour. 
 
-***19:00 - 24:00 "The last 5 push"*** <br>
+***19:00 - 24:00 The last Push*** <br>
 Now, I have about 5 hours left to obtain 40 points. At this stage, I decided to go all in on the AD set and forgo the other 2 standalone hosts. At about 21:30, I climbed out of the bottomless rabbit hole and had my first breakthrough in the AD set, steamrolled the entire set after that. Obtained domain admin proof with about an hour left in the exam. The feeling was euphoric, can't believe I was able to obtain enough points. Spent the rest of 12th February writing the report. 
 
 ## Whats Next
