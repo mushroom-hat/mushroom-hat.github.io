@@ -4,7 +4,7 @@ permalink: /blogs/:title/
 title:  "My OSCP Journey and Thoughts"
 ---
 
-Hello, I see you have stumbled yet another OSCP war story. Back when I first decided to take the OSCP, I recall myself staying overnight to read as many post-exam experience as well. Reading the many online blogs and posts provided a vague idea of what preparation I had to do, what the 800-pages course pdf entails and what the exam experience was like. Likewise, by documenting my personal journey and thoughts, I hope this post helps someone out there, preferably you. 
+Hello, I see you have stumbled yet another OSCP war story. Back when I first decided to take the OSCP, I recall myself staying overnight to read as many post-exam experience as I could digest. Reading the many online blogs and posts provided a vague idea of what preparation I had to do, what the 800-pages course pdf entails and what the exam experience was like. Likewise, by documenting my personal journey and thoughts, I hope this post helps you. 
 
 # Post Summary 
 - [Background](/blogs/oscp-journey/#background)
@@ -55,7 +55,7 @@ After that, I subscribed to HTB and worked on it while *trying* to apply what I 
 
 At the end, I cracked exactly 20 boxes from TJNull's list. Yea 20, and guess how many of them I cracked without using any hints or looking at online writeups? **One**. Thankfully, I still had what left of a little dignity in me to continue pushing, even after HTB absolutely demolised me.
 
-Towards the end of my 2-months HTB subscription, I believe the JR Penetration Tester path (from TryHackMe) was also released. I worked on it and found it to be enriching. It solidified what I learnt from HTB and added more. After completing the JRPT path, I hacked a few more boxes from HTB but eventually decided to stop when I encountered a stego box. At that point, I felt that HTB might not be the best resource, it felt really CTF-Y. Hence, I decided to head to Proving Grounds Practice (PGP) the next month, which many boasts to be great OSCP-prep.
+Towards the end of my 2-months HTB subscription, I believe the JR Penetration Tester path (from TryHackMe) was also released. I worked on it and found it to be enriching. It solidified what I learnt from HTB and added more. After completing the JRPT path, I hacked a few more boxes from HTB but eventually decided to stop when I encountered a stego box. At that point, I felt that HTB might not be the best resource, it felt really CTF-Y. Hence, I decided to head to Proving Grounds Practice (PGP) the next month, which many boast to be great OSCP-prep.
 
 ***November 2021 - December 2021*** <br>
 From November 2021 to December 2021, I subscribed to Proving Ground Practice. I'm not sure what got into me but I steamrolled PG Practice. I think a huge part of my brain clicked after JRPT. Even though, in PGP, I was initially overwhelmed with the amount of ports as compared to HTB, I was eventually cracking boxes left and right, rarely requiring hints. However, because of this, I got cocky and always looked at hints only after one hour of being stuck. I did not "try harder" in PGP.
