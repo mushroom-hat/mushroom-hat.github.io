@@ -26,5 +26,6 @@ table th:nth-of-type(4) {
 
 |`ID`|`TITLES`| `Time To Read` | `Date Published` | 
 |:---:|:----------|:----------: | :------------: |
+|3|[TryHackMe Solar - Exploiting Log4J](/)| - | -
 |2|[The Psychology behind OSCP](/blogs/the-psychology-behind-oscp) | - | 19th Feb 2022
 |1|[My OSCP Journey and Thoughts](/blogs/oscp-journey/)| 13 minutes | 19th Feb 2022
