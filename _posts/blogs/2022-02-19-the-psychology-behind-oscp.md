@@ -33,15 +33,15 @@ At this stage, you are likely getting the hang of the methodology. Boxes sometim
 If you have digiliently prepared your notes and hacked away at the various platforms available, you will soon find yourself asking "Am I prepared?". There's no right answer to this. But here's a general guide:
 <br>
 
-1) Are you able to exploit Proving Grounds Practice without any hints? 
+1) `Are you able to exploit Proving Grounds Practice without any hints?`
 Community-rated Easy to Hard are extremely beneficial in building your methodology in my opinion. There also some OSCP exam-retired boxes there such as WebCal. You should be able to tackle these boxes with relative easy.
 <br>
 
-2) What is your methodology? 
+2) `What is your methodology?` 
 If you have a solid methodology from enumeration to privilege escalation, you should be aware of what to do at each stages of the exploit chain. For example, port 80 (HTTP) is opened, what do you do? FTP is opened, what can you do? If you look at a box's official walkthrough and you realised you forgot to test for Local File Inclusion (LFI), you are probably NOT ready. 
 <br>
 
-3) Are able to put pieces of information together?
+3) `Are able to put pieces of information together?`
 In Proving Grounds Practice especially, boxes teach you how to put pieces of information together. For example, you discovered a username via LFI and there's no other possible exploitation path via HTTP. Now, if you did not even try to test that username via SSH, you are probably NOT ready. 
 
 *What do I do if I am not ready?*<br>
