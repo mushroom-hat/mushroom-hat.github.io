@@ -28,4 +28,4 @@ table th:nth-of-type(4) {
 |:---:|:----------|:----------: | :------------: |
 |3|[TryHackMe Solar - Exploiting Log4J](/)| - | -
 |2|[The Psychology behind OSCP](/blogs/the-psychology-behind-oscp) | 9 minutes | 20th Feb 2022
-|1|[My OSCP Journey and Thoughts](/blogs/oscp-journey/)| 14 minutes | 19th Feb 2022
+|1|[My OSCP Journey and Thoughts](/blogs/oscp-journey/)| 15 minutes | 19th Feb 2022
