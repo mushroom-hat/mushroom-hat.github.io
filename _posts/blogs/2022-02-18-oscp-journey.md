@@ -93,7 +93,7 @@ With AD being majority of the points, I decide to immediately tackle it first. W
 ***07:00 - 11:00 i-give-up nap*** <br>
 Afterwards, I enumerated the AD set for 3 more hours until 07:15 where I decided to take a 4-hour i-give-up nap. At this point, I was deep in a rabbit hole and have kind of given up. 
 
-***11:00 - 14:00 "6-way parallel thinking"*** <br>
+***11:00 - 14:00 tackling stand-alone hosts*** <br>
 After I woke up at approximately 11:00, i decided to tackle the stand-alone hosts. I was thinking if I should give up the AD set and go for the stand-alone machines. Unfortunately, I wasn't even able to crack one machine, partially because my mind was focused on the AD set. I felt like I was thinking about all 6 machines at one point. 
 
 ***14:00 - 14:30 first meal intake*** <br>
