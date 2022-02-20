@@ -53,7 +53,7 @@ From September 2021 to October 2021, I first subscribed to Tib3rius priv-esc cou
 
 After that, I subscribed to HTB and worked on it while *trying* to apply what I had learnt. However, HTB, to me, was that one sensei that I thought I stood a chance after practicing my skills, but I didn't. Wasn't even close. HTB was tough, lord, especially without any hacking experience. 
 
-At the end, I cracked exactly 20 boxes from TJNull's list. Yea 20, and guess how many of them I cracked without using any hints or looking at online writeups? **One**. Thankfully, I still had what left of a little dignity in me to continue pushing, even after HTB absolutely demolised me.
+At the end, I cracked exactly 20 boxes from TJNull's list. Yea 20, and guess how many of them I cracked without using any hints or looking at online writeups? **One**. Thankfully, I still had what left of a little dignity in me to continue pushing, even after HTB absolutely demolished me.
 
 Towards the end of my 2-months HTB subscription, I believe the JR Penetration Tester path (from TryHackMe) was also released. I worked on it and found it to be enriching. It solidified what I learnt from HTB and added more. After completing the JRPT path, I hacked a few more boxes from HTB but eventually decided to stop when I encountered a stego box. At that point, I felt that HTB might not be the best resource, it felt really CTF-Y. Hence, I decided to head to Proving Grounds Practice (PGP) the next month, which many boast to be great OSCP-prep.
 
