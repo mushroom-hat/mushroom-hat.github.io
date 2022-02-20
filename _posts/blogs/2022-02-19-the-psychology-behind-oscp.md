@@ -34,7 +34,7 @@ If you have digiliently prepared your notes and hacked away at the various platf
 <br>
 
 1) `Are you able to exploit Proving Grounds Practice without any hints?`
-Community-rated Easy to Hard are extremely beneficial in building your methodology in my opinion. There also some OSCP exam-retired boxes there such as WebCal. You should be able to tackle these boxes with relative easy.
+Proving Grounds Community-rated Easy to Hard machines are extremely beneficial in building your methodology in my opinion. There also some OSCP exam-retired boxes there such as WebCal. You should be able to tackle these boxes with relative easy.
 <br>
 
 2) `What is your methodology?` 
