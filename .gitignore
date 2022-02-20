@@ -19,4 +19,4 @@ package-lock.json
 docs/*
 !docs/.gitkeep
 
-*.bat
+!*.bat

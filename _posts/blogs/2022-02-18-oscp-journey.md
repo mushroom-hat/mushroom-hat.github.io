@@ -65,7 +65,7 @@ In late November, schoolwork took a toll on me and I had to stop hacking for two
 On the second last week of December, the exam changes were announced and here's when my initial strategy no longer applied... Initially, I decided to go from PGP -> Exam in three months which was a strategy I diligiently followed. This was the point when I was supposed to take my exam. However, the exam changes means I had to pick up more Active Directory skills. The course exercises were also changed from 5 points to 10 points. So, it was kind of a no-brainer to do the course exercise, which included Active Directory as well. <br>
 New Strategy: PGP -> Course Exercise -> Course Labs -> Exam
 
-On the last week of December, I then asked on reddit if I was ready to take the course and many redditors advised me that I was prepared enough to sign up for the course. Hence, I bought the course (2 months) and scheduled the course start date for 2nd January 2022 but I was late to the verification process so it officially started on 9th. 
+On the last week of December, I then asked on reddit if I was ready to take the course and many redditors advised me that I was prepared enough to sign up for the course. Hence, I bought the course (2 months) and scheduled the course start date for 2nd January 2022 but I was late to the verification process so it officially started on 9th. The verification process is done over an email exchange which might cause delays if you forgot to read your emails. *You do not immediately get the course pdf/lab access the day you booked it. It is recommended to book the course earlier than your desired start date in case of delays like these.*
 
 ## Mock Exam
 While waiting to 9th January, I decided to go through a mini mock exam where I try to compromise 4 boxes from PG Practice in 12 hours. The boxes and my completion stats were:
@@ -77,13 +77,14 @@ While waiting to 9th January, I decided to go through a mini mock exam where I t
 You can try my list of mock exam but I feel any Easy to Hard boxes from PGP would work too. I think the most important think PGP teaches is critical thinking. Some exploits used are the same, but the information you enumerated prior will be different. You will be required to enumerate every port and think how you can use each information to ultimately exploit the machines in PGP. I enjoyed PGP overall, highly recommended.
 
 ## Course Start
-
 On 9th January, my course officially starts and so does my school curriculum. Given that the first two weeks are usually less stressful in school, I dedicated full time to work on the course exercises. I'm glad I worked on platforms such as HTB,THM and PGP before as they provided me with the necessary knowledge to tackle the course exercises with relative ease. I finished it in about 16-17 days, spending no less than 90 hours total. I then moved onto the lab and proceeded to do exactly 10 machines (6 + the XOR domain). When I finished the exercises and 10 lab machines, it was the first week of February. My lab report amounted to 400 pages. 
 
 Initially, while I was going through the lab, I was aiming to complete the entire lab of 70 machines and booked the exam for 25th February. But I got lazy and only completed 10 machines) I felt somewhat prepared and also wanted the exam experience. It was okay if I failed so I rescheduled to 11th February. Then, the exam started on exactly 00:00 midnight. 
 
 ## Exam
 I want to preface this section by saying that I only obtained my first 10 points 18 hours into the exam. 18 hours of no points. It was devastating to my mental health ngl. I feel that luck and the tried harder mentality really played a big part here. Many times I feel like giving up and returning to bed. But honestly, if i had given up, i would have probably regretted it even if i did not pass the exam. For anyone taking the exam soon, please manage your mental health but do not give up. 
+***23:45 - 00:00 Proctoring Experience*** <br>
+Before the exam officially starts, you will be required to scan the surroundings of your environment and also share all your screens. A maximum number of 4 screens are allowed for the OSCP. The proctoring experience is pretty straightforward if you read the [manual.](https://help.offensive-security.com/hc/en-us/articles/360050299352-Proctoring-Tool-Student-Manual) After all verifications are completed, a vpn pack is then sent to you and you can officially begin your exam. 
 
 ***00:00 - 07:00 exam start!*** <br>
 Started the exam on 11th February 2022, exactly 00:00. The exam machines format were as mentioned (i.e., AD sets + 3 stand-alone machines). My game plan was AD (40) + Root (20) + Lab Report (10). I scanned all hosts in the exam network simultaneously using AutoRecon. Really huge shoutout to Tib3rius for this tool.
