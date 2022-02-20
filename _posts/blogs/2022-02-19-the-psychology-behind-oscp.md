@@ -29,7 +29,7 @@ Struggling in a single box means you are learning something. Every box that you 
 ## The Run
 At this stage, you are likely getting the hang of the methodology. Boxes sometimes require hints. But again, although your skill sets have improved, there are many things that you still do not know. Even though you are improving, it is important to continue taking notes. During my own journey, I also felt quite burnout at this stage as I had to juggle between OSCP preparation and my school work. I eventually took a break but realised that, personally, breaks lasting longer than two weeks resulted in my skills being rusty and I made mistakes which I wouldn't in the past. Therefore, a takeway from this section is that it is OK to take short breaks from hacking. This prevents burnout and ensures that you stay excited for the next machine. OSCP is marathon, not a sprint.  
 
-## `Am I Prepared?`
+## "Can I fly?"
 If you have digiliently prepared your notes and hacked away at the various platforms available, you will soon find yourself asking "Am I prepared?". There's no right answer to this. But a general guide to the answer of that question is:
 <br>
 
