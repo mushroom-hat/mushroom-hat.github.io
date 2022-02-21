@@ -74,7 +74,7 @@ While waiting to 9th January, I decided to go through a mini mock exam where I t
 - Meathead (3hrs; 03:00 - 06:00)
 - Nickel (Not Compromised)
 
-You can try my list of mock exam but I feel any Easy to Hard boxes from PGP would work too. I think the most important think PGP teaches is critical thinking. Some exploits used are the same, but the information you enumerated prior will be different. You will be required to enumerate every port and think how you can use each information to ultimately exploit the machines in PGP. I enjoyed PGP overall, highly recommended.
+You can try my list of mock exam but I feel any Easy to Hard boxes from PGP would work too. I think the most important thing PGP teaches is critical thinking. Some exploits used are the same, but the information you enumerated prior will be different. You will be required to enumerate every port and think how you can use each information to ultimately exploit the machines in PGP. I enjoyed PGP overall, highly recommended.
 
 ## Course Start
 On 9th January, my course officially starts and so does my school curriculum. Given that the first two weeks are usually less stressful in school, I dedicated full time to work on the course exercises. I'm glad I worked on platforms such as HTB,THM and PGP before as they provided me with the necessary knowledge to tackle the course exercises with relative ease. I finished it in about 16-17 days, spending no less than 90 hours total. I then moved onto the lab and proceeded to do exactly 10 machines (6 + the XOR domain). When I finished the exercises and 10 lab machines, it was the first week of February. My lab report amounted to 400 pages. 
