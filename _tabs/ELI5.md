@@ -13,4 +13,4 @@ Welcome to this page where I will try my best to explain technical ideas and con
 |`Topics`| `Time To Read` | `Date Published` | 
 |:----------:|:----------: | :------------: |
 |[Kerberoast/AS-REP Roast](/ELI5/kerberoast/)| - minutes | 19th Feb 2022
-|[Log4J]()| - minutes | -
+|[Log4J](/ELI5/log4j/)| 4 minutes | 7th Mar 2022
