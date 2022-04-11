@@ -4,7 +4,7 @@ permalink: /blogs/:title/
 title:  "My OSCP Journey and Thoughts"
 ---
 
-Hello, I see you have stumbled yet another OSCP war story. Back when I first decided to take the OSCP, I recall myself staying overnight to read as many post-exam experience as I could digest. Reading the many online blogs and posts provided a vague idea of what preparation I had to do, what the 800-pages course pdf entails and what the exam experience was like. Likewise, by documenting my personal journey and thoughts, I hope this post helps someone out there, preferably you. 
+Back when I first decided to take the OSCP, I recall myself staying overnight to read as many post-exam experience as I could digest. Reading the many online blogs and posts provided a vague idea of what preparation I had to do, what the 800-pages course pdf entails and what the exam experience was like. Likewise, by documenting my personal journey and thoughts, I hope this post helps someone out there.
 
 # Post Summary 
 - [Background](/blogs/oscp-journey/#background)
