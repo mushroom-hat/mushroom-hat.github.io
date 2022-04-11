@@ -122,4 +122,4 @@ I think everyone has different ways to study and tackle the course. I hope that 
 - HackTheBox: As many know, HTB is going off a different tangent as compared to OSCP. HTB is relatively harder. I was only able to solve 1 out of 20 boxes without any hints. Nevertheless, it was the platform that introduced me to many concepts such as enumerating, initial acess and privilege escalation. If I were to do it again, I would probably try to crack <20 boxes to save some time. Now that I'm OSCP certified, I would be open to going back to HTB to fight the sensei once again.
 
 ## Ending Note
-If you are reading this, I thank you for taking your time to read such a long writeup. I hope it helped you in one or another in your OSCP Journey, whether you're starting, in the middle of it or taking your exam soon. 
+I hope this post helped you in one or another in your OSCP Journey, whether you're starting, in the middle of it or taking your exam soon. 
