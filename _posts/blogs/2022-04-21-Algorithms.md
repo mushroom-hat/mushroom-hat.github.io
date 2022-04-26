@@ -1,0 +1,24 @@
+---
+layout: post
+permalink: /blogs/:title/
+title:  "Discovering an interest for Algorithms and Data Structures"
+---
+
+Trimester 2 of my university education has finally come to a close. If there's one thing I've learned about myself in the last three to four months, it's that I've developed a minor interest in algorithms and data structures. I had to build obfuscation and scheduling algorithms for operating systems this semester. These exercises taught me about the power and beauty of a well-written algorithm. To be honest, the use of algorithms may have influenced my perception of the world. And I think it's fantastic.
+
+
+## Data Structures and Algorithms exists everywhere
+Algorithms can be found all over the world, including in fields as diverse as biology. Consider the brain, the most complicated organ in the human body. Many of the algorithms used in operating systems are comparable to those used in the human brain. For example, there is a "Paging" algorithm implemented in every operating system. To re-cap, paging in an operating system is the process of swapping pages from secondary memory (hard disk) into main memory (ram) for use. To execute, processes must be in main memory.
+
+
+Here's where the biological analogy comes in. When a person tries to recall a mathematical formula, their brain iterates over all of their brain storage (aka hard disk) in search of that specific memory. If your brain locates that piece of memory, it gets moved to the main memory, and you exclaim, "Oh, I remember!" You may then utilize that formula to conduct the necessary calculations now that it is stored in your "primary memory." If that memory fragment isn't recovered, it could signify one of two reasons. 1) The paging algorithm in your brain is broken. Maybe you were just exhausted that day and couldn't remember anything. OR 2) that memory is no longer in your secondary memory because your brain might have probably thrown it out unconsciously to make room for your secondary memory. Like a hard disk in a computer system, a human's brain is limited in space. 
+
+Another example of algorithms in areas you might not expect to see them: Your brain is continually making decisions when playing a game, especially for top-tier gamers at the greatest level. "Is this place safe?" "Are there any adversaries here?" "How long does my skill take to cool down?" You get the point. In a game, these judgments are made on the fly and in a split second. The more you play the game, the better your "gaming algorithm" in your brain becomes at making these judgments for you quickly and accurately.
+
+
+## The difficulty of writing a complex algorithm
+This trimester,  I had to create a java obfuscator application for one of my modules. I had to create a number of algorithms to automate the process of obfuscating any Java program for this project. I absolutely enjoy the difficulties of designing an algorithm because it pushes me to think in new ways. For example, i had to only replace variable names that were not in-between quote marks was one of the most complicated algorithms I had to build. This may appear simple at first, but there were other factors to consider. Consider the case where the string contains both quotation-marked and plain ascii text (i.e., String text = "quoted string" + another variable). Also, what if regular ascii text is sandwiched between two quotation-marked strings (String text = "quoted string" + another variable + "another variable"). You could just split the text by "+" and check if each element in the splitted list contains quotation marks right? No! Because, the quotation-marked string might contain a "+" character inside. 
+
+I ran into several edge cases and intricacies like this during the creation of this algorithm, and I had to rebuild it. However, I found the process enjoyable because I spent the most of my time pondering how to design the algorithm. I had to write the algorithm's logical sequence down on paper at times! The best part of designing an algorithm is that it pushes me to perfection by not allowing me to make any mistakes since I can't afford to. Any error in the code, no matter how minor, could result in an altogether different algorithm output. This error in an obfuscator program could result in the obfuscated program failing to compile. It's an area where we can't afford to make any blunders. The cherry on top is seeing your algorithm work as intended and your obfuscated program compiles with no errors. 
+
+During this trimester, I started thinking a lot more about algorithms and where they may be found in the real world, particularly sophisticated algorithms. From here on, I might start doing leetcode challenges once in a while to stimulate my brain as I believe many of the leetcode problems test you on data structures and algorithms. That's it for this little blog entry, but I wanted to write it since I think it gives this static page some personality. 
