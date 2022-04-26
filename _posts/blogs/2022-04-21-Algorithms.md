@@ -4,7 +4,7 @@ permalink: /blogs/:title/
 title:  "Discovering an interest for Algorithms and Data Structures"
 ---
 
-Trimester 2 of my university education has finally come to a close. If there's one thing I've learned about myself in the last three to four months, it's that I've developed a minor interest in algorithms and data structures. I had to build obfuscation and scheduling algorithms for operating systems this semester. These exercises taught me about the power and beauty of a well-written algorithm. To be honest, the use of algorithms may have influenced my perception of the world. And I think it's fantastic.
+Trimester 2 of my university education has finally come to a close. If there's one thing I've learned about myself in the last three to four months, it's that I've developed a minor interest in data structures and algorithms. During this trimester, I had to build obfuscation algorithms and scheduling algorithms for the modules "mobile security" and "operating systems" respectively. These assignments taught me about the power and beauty of a well-written algorithm. To be honest, the use of algorithms may have influenced my perception of the world. And I think it's fantastic.
 
 
 ## Data Structures and Algorithms exists everywhere
