@@ -8,5 +8,3 @@ It's done! I finally completed Offensive Security's penetration path. From the b
 
 On to the main post, if you are OSCP-certified and thinking whether or not you should invest in OSEP, you should! PEN300 is prepared in a way that PEN200 certified students can ease into it. Although, you would still time to invest time and effort into studying, understanding the codes provided and ultimately utilise them in your own penetration testing. Regardless, if you have the time and money, this course is extremely enriching. 
 
-I have attached a screenshot below of the course syllabus below. 
-![](/screenshots/osep-journey/2022-10-20_02-40.png)
