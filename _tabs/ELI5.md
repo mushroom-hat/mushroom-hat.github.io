@@ -12,5 +12,5 @@ Welcome to this page where I will try my best to explain technical ideas and con
 
 |`Topics`| `Time To Read` | `Date Published` | 
 |:----------:|:----------: | :------------: |
-|[Reverse Proxies & Load Balancers](/ELI5/RPBL/)| - minutes | 7th Jan 2023
+|[Reverse Proxies & Load Balancers](/ELI5/RPLB/)| 2 minutes | 7th Jan 2023
 |[Log4J](/ELI5/log4j/)| 4 minutes | 7th Mar 2022
