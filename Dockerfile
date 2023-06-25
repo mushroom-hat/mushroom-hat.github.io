@@ -19,6 +19,7 @@ RUN apt install apt-transport-https curl gnupg-agent ca-certificates software-pr
 RUN curl -fsSL https://download.docker.com/linux/ubuntu/gpg | apt-key add -
 RUN add-apt-repository "deb [arch=amd64] https://download.docker.com/linux/ubuntu focal stable"
 RUN apt install docker-ce docker-ce-cli containerd.io -y
+RUN service docker start
 
 # Configure apache
 RUN echo '. /etc/apache2/envvars' > /root/run_apache.sh
