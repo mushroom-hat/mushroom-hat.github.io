@@ -3,7 +3,7 @@ RUN rm /bin/sh && ln -s /bin/bash /bin/sh
 
 RUN apt update
 RUN apt -y install make build-essential ruby ruby-dev git
-RUN apt-get -y install apache2 vim awscli
+RUN apt-get -y install apache2 vim
 RUN echo "# Ruby exports\nexport GEM_HOME=$HOME/gems\nexport PATH=$HOME/gems/bin:$PATH" >> .bashrc
 RUN source ~/.bashrc
 RUN gem install jekyll bundler
