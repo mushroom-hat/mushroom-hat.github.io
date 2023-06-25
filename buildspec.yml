@@ -13,8 +13,8 @@ phases:
     commands:
       - echo Build started on `date`
       - echo Building the Docker image...
-      - docker build -t 169454521281.dkr.ecr.ap-southeast-1.amazonaws.com/mushroom_images_sg:latest .
-      - docker tag 169454521281.dkr.ecr.ap-southeast-1.amazonaws.com/mushroom_images_sg:latest 169454521281.dkr.ecr.ap-southeast-1.amazonaws.com/mushroom_images_sg:latest
+      - docker build -t myjekyll:latest .
+      - docker tag myjekyll:latest 169454521281.dkr.ecr.ap-southeast-1.amazonaws.com/mushroom_images_sg:latest
   post_build:
     commands:
       - echo Build completed on `date`

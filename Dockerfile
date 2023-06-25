@@ -29,6 +29,6 @@ RUN sed -i "s|DocumentRoot /var/www/html|DocumentRoot /var/www/html/_site|" /etc
 
 
 EXPOSE 80
-CMD /root/run_apache.sh
-#CMD ["/bin/bash"]
+#CMD /root/run_apache.sh
+CMD ["/bin/bash"]
 
