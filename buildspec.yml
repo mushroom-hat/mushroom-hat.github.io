@@ -1,0 +1,26 @@
+version: 0.2
+
+phases:
+  pre_build:
+    commands:
+      - echo Logging in to Amazon ECR...
+      - aws --version
+      - aws ecr get-login-password --region ap-southeast-1 | docker login --username AWS --password-stdin 169454521281.dkr.ecr.ap-southeast-1.amazonaws.com
+      - REPOSITORY_URI=012345678910.dkr.ecr.us-west-2.amazonaws.com/hello-world
+      - COMMIT_HASH=$(echo $CODEBUILD_RESOLVED_SOURCE_VERSION | cut -c 1-7)
+      - IMAGE_TAG=${COMMIT_HASH:=latest}
+  build:
+    commands:
+      - echo Build started on `date`
+      - echo Building the Docker image...
+      - docker build -t 169454521281.dkr.ecr.ap-southeast-1.amazonaws.com/mushroom_images_sg:latest .
+      - docker tag 169454521281.dkr.ecr.ap-southeast-1.amazonaws.com/mushroom_images_sg:latest 169454521281.dkr.ecr.ap-southeast-1.amazonaws.com/mushroom_images_sg:latest
+  post_build:
+    commands:
+      - echo Build completed on `date`
+      - echo Pushing the Docker images...
+      - docker push 169454521281.dkr.ecr.ap-southeast-1.amazonaws.com/mushroom_images_sg:latest
+      - echo Writing image definitions file...
+      - printf '[{"name":"MyJekyll","imageUri":"%s"}]' 169454521281.dkr.ecr.ap-southeast-1.amazonaws.com/mushroom_images_sg:latest > imagedefinitions.json
+artifacts:
+    files: imagedefinitions.json
