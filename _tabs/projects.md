@@ -4,10 +4,20 @@ icon: fas fa-folder
 order: 3
 ---
 
-## Android Application Obfuscator
-For this project, my team of 6 members were tasked to develop an obfuscator program to obfuscate Android applications. As you may know, Android applications are written using Java/Kotlin and these source codes are compiled into Dalvik Executables (.dex) which are essentially executable code for Android. These low  level code can be converted (using tools) to a more readable code, also known as smali code. For this project, my team developed a program that can successfully obfuscate the application at a higher level (i.e., java/kotlin) and byte code at a lower level (i.e., smali). 
 
-Read More About This Project [here](https://github.com/mushroom-hat/oopskater)
+## Creating my own CI/CD Pipeline
+In 2022, I created my own personal blog and hosted it on Netlify along with my personal domain name. Netlify allows me to deploy my website for free along with a CI/CD pipeline that is easy to configure. However, because of how easy it was to configure, I wasn't sure of the inner workings of the entire process, from building to deployment. As a result, I decided to create my own CI/CD Pipeline with AWS services such as AWS Codepipeline, Elastic Container Services (ecs), and many others. With this, I have full control over every aspect of the pipeline including build and deployment stages. Additionally, I could also change or integrate additional services into my pipeline. This personal project provided me with a lot of learning opportunities about devops and I'm excited to improve the entire infrastructure using Infrastructure-as-Code tools such as Terraform or just by integrating more services. 
+<!--
+    https://docs.aws.amazon.com/codepipeline/latest/userguide/ecs-cd-pipeline.html
+-->
+
+[ Project Source Code](https://github.com/mushroom-hat/mushroom-hat.github.io)
+
+
+## Android Application Obfuscator
+For this project, my team of 6 members were tasked to develop an obfuscator program to obfuscate Android applications. As you may know, Android applications are written using Java/Kotlin and these source codes are compiled into Dalvik Executables (.dex) which are essentially executable code for Android. These low level code can be converted (using tools) to a more readable code, also known as smali code. For this project, my team developed a program that can successfully obfuscate the application at a higher level (i.e., java/kotlin) and byte code at a lower level (i.e., smali). 
+
+[ Project Source Code](https://github.com/mushroom-hat/oopskater)
 
 
 ## Mobile Malware
